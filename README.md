@@ -23,7 +23,7 @@ This is a simple full-stack login page built with:
 ## Installation steps
 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/login-ts-app.git
+git clone https://github.com/msharma-108/Simple-Login-Page.git
 ```
 
 2. Make a .env file in the server folder referring from the .env.example file.
