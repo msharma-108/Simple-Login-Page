@@ -1,0 +1,23 @@
+[
+    {
+      "email": "alice@example.com",
+      "password": "password123"
+    },
+    {
+      "email": "bob@example.com",
+      "password": "securePass456"
+    },
+    {
+      "email": "charlie@example.com",
+      "password": "letMeIn789"
+    },
+    {
+      "email": "diana@example.com",
+      "password": "passWord321"
+    },
+    {
+      "email": "evan@example.com",
+      "password": "mySecret987"
+    }
+  ]
+  
